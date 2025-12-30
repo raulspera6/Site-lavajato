@@ -1,6 +1,6 @@
-# Site-lavajato
-Primeiro site desenvolvido para um lava-jato profissional, ultilizando HTML, CSS,WordPress. 
+ 
 # 🧼 Site Lavajato Profissional
+Primeiro site desenvolvido para um lava-jato profissional, ultilizando HTML, CSS,WordPress.
 
 Projeto de site institucional desenvolvido como prática de front-end, com foco em organização visual, responsividade e apresentação profissional de serviços.
 
